@@ -10,7 +10,6 @@ This project serves as a simple example of binary classification using logistic 
 
 The dataset used for this project consists of the following columns:
 - `SAT Score`: The SAT score of each applicant.
-- `GPA`: The GPA of each applicant.
 - `Admitted`: The target variable, indicating whether the applicant was admitted (1) or not admitted (0).
 
 ## Project Structure
@@ -19,7 +18,6 @@ The repository is structured as follows:
 
 - `logistic_regression_admission.ipynb`: A Jupyter Notebook that contains the code for data preprocessing, model training, and evaluation.
 - `data.csv`: The dataset used for the analysis.
-- `requirements.txt`: A file listing the necessary Python packages and their versions for running the code.
 
 ## Usage
 
@@ -35,5 +33,5 @@ The repository is structured as follows:
 
 ## Acknowledgments
 
-Special thanks to [Data Source Provider's 365 DataScience] for providing the admission dataset used in this project.
+Special thanks to ['Data Source Provider's 365 DataScience'] for providing the admission dataset used in this project.
 
