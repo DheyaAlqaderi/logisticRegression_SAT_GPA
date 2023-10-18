@@ -16,8 +16,8 @@ The dataset used for this project consists of the following columns:
 
 The repository is structured as follows:
 
-- `logistic_regression_admission.ipynb`: A Jupyter Notebook that contains the code for data preprocessing, model training, and evaluation.
-- `data.csv`: The dataset used for the analysis.
+- `AdmittanceModel.ipynb`: A Jupyter Notebook that contains the code for data preprocessing, model training, and evaluation.
+- `Admittance.csv`: The dataset used for the analysis.
 
 ## Usage
 
